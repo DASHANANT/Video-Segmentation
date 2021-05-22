@@ -1,2 +1,8 @@
 # Video-segmentation-using-Unet
-To avoid high computational training ,by skipping the training on video data we perform model training on pets data and use the model to segment in real time 
+To avoid high computational training 
+by skipping the training on video data 
+
+- we perform model training on pets data 
+- use the model to segment ppl in real time 
+- Gives accuracy around 80%
+
