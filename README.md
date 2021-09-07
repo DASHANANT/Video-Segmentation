@@ -1,4 +1,4 @@
-# Video-segmentation-using-Unet
+# Video-Semantic-Segmentation
 
 Unet Architecture 
 ----------------------
@@ -12,5 +12,12 @@ To avoid high computational training
 - Gives accuracy around 80%
 
 
-## Here one output from webcam
+Here one output from webcam
+=====================================
 ![](https://github.com/DASHANANT/Video-segmentation-using-Unet/blob/main/outpu.png)
+
+
+References
+=========
+* Olaf Ronneberger, Philipp Fischer, & Thomas Brox. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation.
+https://arxiv.org/abs/1505.04597
